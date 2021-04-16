@@ -1,0 +1,15 @@
+.table {
+  margin: 0 auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.excel {
+  padding: 5px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.title {
+  text-align: center;
+}
